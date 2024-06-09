@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Git and GitHub!
+=======
+Hello, Git add GitHub!
+>>>>>>> dabe59ca49cbf6415c13e1b64aad01136fc67bdc
